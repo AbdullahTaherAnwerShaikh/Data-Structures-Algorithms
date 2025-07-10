@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Sum", "Data Structures & Algorithms\Data Structures & Algorithms.vcxproj", "{D969FC9E-62A3-414C-9641-D04929C38992}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Add Two Numbers", "Add Two Numbers\Add Two Numbers.vcxproj", "{B0800BD7-CDEA-4EAF-B1A0-EA391A422E05}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Replacing Numbers using Pointers", "Replacing Numbers using Pointers\Replacing Numbers using Pointers.vcxproj", "{67543785-CDC7-4A76-A503-EA42DDA08ADB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array Reverser using pointers", "Array Reverser using pointers\Array Reverser using pointers.vcxproj", "{4EE85289-31C6-437A-9278-C03CCA5AE1C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D969FC9E-62A3-414C-9641-D04929C38992}.Debug|x64.ActiveCfg = Debug|x64
+		{D969FC9E-62A3-414C-9641-D04929C38992}.Debug|x64.Build.0 = Debug|x64
+		{D969FC9E-62A3-414C-9641-D04929C38992}.Debug|x86.ActiveCfg = Debug|Win32
+		{D969FC9E-62A3-414C-9641-D04929C38992}.Debug|x86.Build.0 = Debug|Win32
+		{D969FC9E-62A3-414C-9641-D04929C38992}.Release|x64.ActiveCfg = Release|x64
+		{D969FC9E-62A3-414C-9641-D04929C38992}.Release|x64.Build.0 = Release|x64
+		{D969FC9E-62A3-414C-9641-D04929C38992}.Release|x86.ActiveCfg = Release|Win32
+		{D969FC9E-62A3-414C-9641-D04929C38992}.Release|x86.Build.0 = Release|Win32
+		{B0800BD7-CDEA-4EAF-B1A0-EA391A422E05}.Debug|x64.ActiveCfg = Debug|x64
+		{B0800BD7-CDEA-4EAF-B1A0-EA391A422E05}.Debug|x64.Build.0 = Debug|x64
+		{B0800BD7-CDEA-4EAF-B1A0-EA391A422E05}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0800BD7-CDEA-4EAF-B1A0-EA391A422E05}.Debug|x86.Build.0 = Debug|Win32
+		{B0800BD7-CDEA-4EAF-B1A0-EA391A422E05}.Release|x64.ActiveCfg = Release|x64
+		{B0800BD7-CDEA-4EAF-B1A0-EA391A422E05}.Release|x64.Build.0 = Release|x64
+		{B0800BD7-CDEA-4EAF-B1A0-EA391A422E05}.Release|x86.ActiveCfg = Release|Win32
+		{B0800BD7-CDEA-4EAF-B1A0-EA391A422E05}.Release|x86.Build.0 = Release|Win32
+		{67543785-CDC7-4A76-A503-EA42DDA08ADB}.Debug|x64.ActiveCfg = Debug|x64
+		{67543785-CDC7-4A76-A503-EA42DDA08ADB}.Debug|x64.Build.0 = Debug|x64
+		{67543785-CDC7-4A76-A503-EA42DDA08ADB}.Debug|x86.ActiveCfg = Debug|Win32
+		{67543785-CDC7-4A76-A503-EA42DDA08ADB}.Debug|x86.Build.0 = Debug|Win32
+		{67543785-CDC7-4A76-A503-EA42DDA08ADB}.Release|x64.ActiveCfg = Release|x64
+		{67543785-CDC7-4A76-A503-EA42DDA08ADB}.Release|x64.Build.0 = Release|x64
+		{67543785-CDC7-4A76-A503-EA42DDA08ADB}.Release|x86.ActiveCfg = Release|Win32
+		{67543785-CDC7-4A76-A503-EA42DDA08ADB}.Release|x86.Build.0 = Release|Win32
+		{4EE85289-31C6-437A-9278-C03CCA5AE1C3}.Debug|x64.ActiveCfg = Debug|x64
+		{4EE85289-31C6-437A-9278-C03CCA5AE1C3}.Debug|x64.Build.0 = Debug|x64
+		{4EE85289-31C6-437A-9278-C03CCA5AE1C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{4EE85289-31C6-437A-9278-C03CCA5AE1C3}.Debug|x86.Build.0 = Debug|Win32
+		{4EE85289-31C6-437A-9278-C03CCA5AE1C3}.Release|x64.ActiveCfg = Release|x64
+		{4EE85289-31C6-437A-9278-C03CCA5AE1C3}.Release|x64.Build.0 = Release|x64
+		{4EE85289-31C6-437A-9278-C03CCA5AE1C3}.Release|x86.ActiveCfg = Release|Win32
+		{4EE85289-31C6-437A-9278-C03CCA5AE1C3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DC013C5-FC2A-496A-BBEC-D98BE180A6F2}
+	EndGlobalSection
+EndGlobal
