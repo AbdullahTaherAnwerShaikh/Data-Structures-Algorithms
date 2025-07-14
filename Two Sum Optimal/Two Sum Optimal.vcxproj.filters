@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Two Sum.cpp">
+    <ClCompile Include="..\Data Structures &amp; Algorithms\Two Sum Optimal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
