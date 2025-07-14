@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array Reverser using pointe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Sum Optimal", "Two Sum Optimal\Two Sum Optimal.vcxproj", "{94BD3F79-BC75-4FAB-97AD-C6BA00220D1F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Longest Common Prefix (LC)", "Longest Common Prefix (LC)\Longest Common Prefix (LC).vcxproj", "{0EAB8B03-DE74-4EDB-8702-4DB2811B4E33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{94BD3F79-BC75-4FAB-97AD-C6BA00220D1F}.Release|x64.Build.0 = Release|x64
 		{94BD3F79-BC75-4FAB-97AD-C6BA00220D1F}.Release|x86.ActiveCfg = Release|Win32
 		{94BD3F79-BC75-4FAB-97AD-C6BA00220D1F}.Release|x86.Build.0 = Release|Win32
+		{0EAB8B03-DE74-4EDB-8702-4DB2811B4E33}.Debug|x64.ActiveCfg = Debug|x64
+		{0EAB8B03-DE74-4EDB-8702-4DB2811B4E33}.Debug|x64.Build.0 = Debug|x64
+		{0EAB8B03-DE74-4EDB-8702-4DB2811B4E33}.Debug|x86.ActiveCfg = Debug|Win32
+		{0EAB8B03-DE74-4EDB-8702-4DB2811B4E33}.Debug|x86.Build.0 = Debug|Win32
+		{0EAB8B03-DE74-4EDB-8702-4DB2811B4E33}.Release|x64.ActiveCfg = Release|x64
+		{0EAB8B03-DE74-4EDB-8702-4DB2811B4E33}.Release|x64.Build.0 = Release|x64
+		{0EAB8B03-DE74-4EDB-8702-4DB2811B4E33}.Release|x86.ActiveCfg = Release|Win32
+		{0EAB8B03-DE74-4EDB-8702-4DB2811B4E33}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
