@@ -15,7 +15,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Sum Optimal", "Two Sum 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Longest Common Prefix (LC)", "Longest Common Prefix (LC)\Longest Common Prefix (LC).vcxproj", "{0EAB8B03-DE74-4EDB-8702-4DB2811B4E33}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Remove duplicates from sorted arrays", "Remove duplicates from sorted arrays\Remove duplicates from sorted arrays.vcxproj", "{E783FBC1-6C6F-4C12-90D2-8A429327499B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Remove duplicates from sorted arrays (BF)", "Remove duplicates from sorted arrays\Remove duplicates from sorted arrays.vcxproj", "{E783FBC1-6C6F-4C12-90D2-8A429327499B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Removing duplicates in a sorted array (O)", "Removing duplicates in a sorted array (O)\Removing duplicates in a sorted array (O).vcxproj", "{60111253-5F39-43EC-A315-E6119594D032}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,14 @@ Global
 		{E783FBC1-6C6F-4C12-90D2-8A429327499B}.Release|x64.Build.0 = Release|x64
 		{E783FBC1-6C6F-4C12-90D2-8A429327499B}.Release|x86.ActiveCfg = Release|Win32
 		{E783FBC1-6C6F-4C12-90D2-8A429327499B}.Release|x86.Build.0 = Release|Win32
+		{60111253-5F39-43EC-A315-E6119594D032}.Debug|x64.ActiveCfg = Debug|x64
+		{60111253-5F39-43EC-A315-E6119594D032}.Debug|x64.Build.0 = Debug|x64
+		{60111253-5F39-43EC-A315-E6119594D032}.Debug|x86.ActiveCfg = Debug|Win32
+		{60111253-5F39-43EC-A315-E6119594D032}.Debug|x86.Build.0 = Debug|Win32
+		{60111253-5F39-43EC-A315-E6119594D032}.Release|x64.ActiveCfg = Release|x64
+		{60111253-5F39-43EC-A315-E6119594D032}.Release|x64.Build.0 = Release|x64
+		{60111253-5F39-43EC-A315-E6119594D032}.Release|x86.ActiveCfg = Release|Win32
+		{60111253-5F39-43EC-A315-E6119594D032}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
