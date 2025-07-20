@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Remove Element (BF)", "Remo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Search Insert Position (O)", "Search Insert Position\Search Insert Position.vcxproj", "{E4086966-B6F3-4586-ADDF-EE607AD6D10F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Plus One", "Plus One\Plus One.vcxproj", "{D544DA93-4579-4FD4-A1A1-E31B962FF66D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{E4086966-B6F3-4586-ADDF-EE607AD6D10F}.Release|x64.Build.0 = Release|x64
 		{E4086966-B6F3-4586-ADDF-EE607AD6D10F}.Release|x86.ActiveCfg = Release|Win32
 		{E4086966-B6F3-4586-ADDF-EE607AD6D10F}.Release|x86.Build.0 = Release|Win32
+		{D544DA93-4579-4FD4-A1A1-E31B962FF66D}.Debug|x64.ActiveCfg = Debug|x64
+		{D544DA93-4579-4FD4-A1A1-E31B962FF66D}.Debug|x64.Build.0 = Debug|x64
+		{D544DA93-4579-4FD4-A1A1-E31B962FF66D}.Debug|x86.ActiveCfg = Debug|Win32
+		{D544DA93-4579-4FD4-A1A1-E31B962FF66D}.Debug|x86.Build.0 = Debug|Win32
+		{D544DA93-4579-4FD4-A1A1-E31B962FF66D}.Release|x64.ActiveCfg = Release|x64
+		{D544DA93-4579-4FD4-A1A1-E31B962FF66D}.Release|x64.Build.0 = Release|x64
+		{D544DA93-4579-4FD4-A1A1-E31B962FF66D}.Release|x86.ActiveCfg = Release|Win32
+		{D544DA93-4579-4FD4-A1A1-E31B962FF66D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
