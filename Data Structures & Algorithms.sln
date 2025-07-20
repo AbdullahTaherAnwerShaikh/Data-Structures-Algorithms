@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jump Game", "Jump Game\Jump
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Palindrome Number", "Palindrome Number\Palindrome Number.vcxproj", "{6BC7808F-9019-4F22-9432-952A91D2D5AA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Roman to Integer", "Roman to Integer\Roman to Integer.vcxproj", "{CAAD9747-3A31-470B-94B8-FB78C9727A41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{6BC7808F-9019-4F22-9432-952A91D2D5AA}.Release|x64.Build.0 = Release|x64
 		{6BC7808F-9019-4F22-9432-952A91D2D5AA}.Release|x86.ActiveCfg = Release|Win32
 		{6BC7808F-9019-4F22-9432-952A91D2D5AA}.Release|x86.Build.0 = Release|Win32
+		{CAAD9747-3A31-470B-94B8-FB78C9727A41}.Debug|x64.ActiveCfg = Debug|x64
+		{CAAD9747-3A31-470B-94B8-FB78C9727A41}.Debug|x64.Build.0 = Debug|x64
+		{CAAD9747-3A31-470B-94B8-FB78C9727A41}.Debug|x86.ActiveCfg = Debug|Win32
+		{CAAD9747-3A31-470B-94B8-FB78C9727A41}.Debug|x86.Build.0 = Debug|Win32
+		{CAAD9747-3A31-470B-94B8-FB78C9727A41}.Release|x64.ActiveCfg = Release|x64
+		{CAAD9747-3A31-470B-94B8-FB78C9727A41}.Release|x64.Build.0 = Release|x64
+		{CAAD9747-3A31-470B-94B8-FB78C9727A41}.Release|x86.ActiveCfg = Release|Win32
+		{CAAD9747-3A31-470B-94B8-FB78C9727A41}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
