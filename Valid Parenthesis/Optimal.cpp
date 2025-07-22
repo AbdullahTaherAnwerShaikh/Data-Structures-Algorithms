@@ -1,38 +1,34 @@
 class Solution {
 public:
     bool isValid(string s) {
-        vector<int>st;
-        for (char i : s) {
+        vector<int>storage;
+        for (auto i : s) {
             if (i == '(' || i == '{' || i == '[') {
                 if (i == '(') {
-                    st.push_back(1);
+                    storage.push_back(1);
                 }
                 if (i == '{') {
-                    st.push_back(2);
+                    storage.push_back(2);
                 }
                 if (i == '[') {
-                    st.push_back(3);
+                    storage.push_back(3);
                 }
             }
-
             else {
-                if (st.empty())return false;
-                int sti = st.back();
-                bool ok = false;
-                if (sti == 1 && i == ')') {
-                    ok = true;
+                if (storage.empty())return false;
+                int sti = storage.back();
+                bool num = false;
+                if (i == ')' && sti == 1) {
+                    num = true;
+                }if (i == '}' && sti == 2) {
+                    num = true;
+                }if (i == ']' && sti == 3) {
+                    num = true;
                 }
-                if (sti == 2 && i == '}') {
-                    ok = true;
-                }
-                if (sti == 3 && i == ']') {
-                    ok = true;
-                }
-                if (!ok)return false;
-                st.pop_back();
+                if (!num)return false;
+                storage.pop_back();
             }
         }
-        return st.empty();
+        return storage.empty();
     }
-
 };
