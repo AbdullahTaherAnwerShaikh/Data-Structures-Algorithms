@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Majority Element", "Majorit
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Contains Duplicates (BF)", "Contains Duplicates\Contains Duplicates.vcxproj", "{4B08FA71-6129-4383-BEAD-AE659AC7B608}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Contains Duplicate (OP)", "Contains Duplicate\Contains Duplicate.vcxproj", "{60C243E1-578C-4663-9B01-7DE451F16D62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{4B08FA71-6129-4383-BEAD-AE659AC7B608}.Release|x64.Build.0 = Release|x64
 		{4B08FA71-6129-4383-BEAD-AE659AC7B608}.Release|x86.ActiveCfg = Release|Win32
 		{4B08FA71-6129-4383-BEAD-AE659AC7B608}.Release|x86.Build.0 = Release|Win32
+		{60C243E1-578C-4663-9B01-7DE451F16D62}.Debug|x64.ActiveCfg = Debug|x64
+		{60C243E1-578C-4663-9B01-7DE451F16D62}.Debug|x64.Build.0 = Debug|x64
+		{60C243E1-578C-4663-9B01-7DE451F16D62}.Debug|x86.ActiveCfg = Debug|Win32
+		{60C243E1-578C-4663-9B01-7DE451F16D62}.Debug|x86.Build.0 = Debug|Win32
+		{60C243E1-578C-4663-9B01-7DE451F16D62}.Release|x64.ActiveCfg = Release|x64
+		{60C243E1-578C-4663-9B01-7DE451F16D62}.Release|x64.Build.0 = Release|x64
+		{60C243E1-578C-4663-9B01-7DE451F16D62}.Release|x86.ActiveCfg = Release|Win32
+		{60C243E1-578C-4663-9B01-7DE451F16D62}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
