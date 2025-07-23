@@ -43,6 +43,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pascals Triangle II", "Pasc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Best time to buy and sell stock", "Best time to buy and sell stock\Best time to buy and sell stock.vcxproj", "{4ED0FA2A-8A49-4101-AA21-710C5727282E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Single Number (BF)", "Single Number\Single Number.vcxproj", "{97FCD273-9BA2-4877-A10D-6E588262CDB8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Single Number (O)", "Single Number (O)\Single Number (O).vcxproj", "{11F82F4C-0C52-4061-BD96-3591D57AB919}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +215,22 @@ Global
 		{4ED0FA2A-8A49-4101-AA21-710C5727282E}.Release|x64.Build.0 = Release|x64
 		{4ED0FA2A-8A49-4101-AA21-710C5727282E}.Release|x86.ActiveCfg = Release|Win32
 		{4ED0FA2A-8A49-4101-AA21-710C5727282E}.Release|x86.Build.0 = Release|Win32
+		{97FCD273-9BA2-4877-A10D-6E588262CDB8}.Debug|x64.ActiveCfg = Debug|x64
+		{97FCD273-9BA2-4877-A10D-6E588262CDB8}.Debug|x64.Build.0 = Debug|x64
+		{97FCD273-9BA2-4877-A10D-6E588262CDB8}.Debug|x86.ActiveCfg = Debug|Win32
+		{97FCD273-9BA2-4877-A10D-6E588262CDB8}.Debug|x86.Build.0 = Debug|Win32
+		{97FCD273-9BA2-4877-A10D-6E588262CDB8}.Release|x64.ActiveCfg = Release|x64
+		{97FCD273-9BA2-4877-A10D-6E588262CDB8}.Release|x64.Build.0 = Release|x64
+		{97FCD273-9BA2-4877-A10D-6E588262CDB8}.Release|x86.ActiveCfg = Release|Win32
+		{97FCD273-9BA2-4877-A10D-6E588262CDB8}.Release|x86.Build.0 = Release|Win32
+		{11F82F4C-0C52-4061-BD96-3591D57AB919}.Debug|x64.ActiveCfg = Debug|x64
+		{11F82F4C-0C52-4061-BD96-3591D57AB919}.Debug|x64.Build.0 = Debug|x64
+		{11F82F4C-0C52-4061-BD96-3591D57AB919}.Debug|x86.ActiveCfg = Debug|Win32
+		{11F82F4C-0C52-4061-BD96-3591D57AB919}.Debug|x86.Build.0 = Debug|Win32
+		{11F82F4C-0C52-4061-BD96-3591D57AB919}.Release|x64.ActiveCfg = Release|x64
+		{11F82F4C-0C52-4061-BD96-3591D57AB919}.Release|x64.Build.0 = Release|x64
+		{11F82F4C-0C52-4061-BD96-3591D57AB919}.Release|x86.ActiveCfg = Release|Win32
+		{11F82F4C-0C52-4061-BD96-3591D57AB919}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
