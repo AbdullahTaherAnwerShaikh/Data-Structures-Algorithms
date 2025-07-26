@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Group Anagrams v.2", "Group
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Top k elements (BF)", "Top k elements (BF)\Top k elements (BF).vcxproj", "{9B6B8B32-EFB0-46F6-B373-EFD48F3B8D74}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Top k Elements v.2", "Top k Elements v.2\Top k Elements v.2.vcxproj", "{197B3452-34B6-4340-ADEE-357E3C55F1D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -331,6 +333,14 @@ Global
 		{9B6B8B32-EFB0-46F6-B373-EFD48F3B8D74}.Release|x64.Build.0 = Release|x64
 		{9B6B8B32-EFB0-46F6-B373-EFD48F3B8D74}.Release|x86.ActiveCfg = Release|Win32
 		{9B6B8B32-EFB0-46F6-B373-EFD48F3B8D74}.Release|x86.Build.0 = Release|Win32
+		{197B3452-34B6-4340-ADEE-357E3C55F1D9}.Debug|x64.ActiveCfg = Debug|x64
+		{197B3452-34B6-4340-ADEE-357E3C55F1D9}.Debug|x64.Build.0 = Debug|x64
+		{197B3452-34B6-4340-ADEE-357E3C55F1D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{197B3452-34B6-4340-ADEE-357E3C55F1D9}.Debug|x86.Build.0 = Debug|Win32
+		{197B3452-34B6-4340-ADEE-357E3C55F1D9}.Release|x64.ActiveCfg = Release|x64
+		{197B3452-34B6-4340-ADEE-357E3C55F1D9}.Release|x64.Build.0 = Release|x64
+		{197B3452-34B6-4340-ADEE-357E3C55F1D9}.Release|x86.ActiveCfg = Release|Win32
+		{197B3452-34B6-4340-ADEE-357E3C55F1D9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
