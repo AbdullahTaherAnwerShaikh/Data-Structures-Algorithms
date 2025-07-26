@@ -71,6 +71,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Top k Elements v.2", "Top k
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Top k elements (O)", "Top k elements (O)\Top k elements (O).vcxproj", "{A0707B93-07AF-4461-AD6A-7F78937D3110}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Product of array except self", "Product of array except self\Product of array except self.vcxproj", "{26762C07-3C42-49EA-82EC-178D21A1D318}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -351,6 +353,14 @@ Global
 		{A0707B93-07AF-4461-AD6A-7F78937D3110}.Release|x64.Build.0 = Release|x64
 		{A0707B93-07AF-4461-AD6A-7F78937D3110}.Release|x86.ActiveCfg = Release|Win32
 		{A0707B93-07AF-4461-AD6A-7F78937D3110}.Release|x86.Build.0 = Release|Win32
+		{26762C07-3C42-49EA-82EC-178D21A1D318}.Debug|x64.ActiveCfg = Debug|x64
+		{26762C07-3C42-49EA-82EC-178D21A1D318}.Debug|x64.Build.0 = Debug|x64
+		{26762C07-3C42-49EA-82EC-178D21A1D318}.Debug|x86.ActiveCfg = Debug|Win32
+		{26762C07-3C42-49EA-82EC-178D21A1D318}.Debug|x86.Build.0 = Debug|Win32
+		{26762C07-3C42-49EA-82EC-178D21A1D318}.Release|x64.ActiveCfg = Release|x64
+		{26762C07-3C42-49EA-82EC-178D21A1D318}.Release|x64.Build.0 = Release|x64
+		{26762C07-3C42-49EA-82EC-178D21A1D318}.Release|x86.ActiveCfg = Release|Win32
+		{26762C07-3C42-49EA-82EC-178D21A1D318}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
