@@ -89,6 +89,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Valid Sudoku", "Valid Sudok
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Longest Substring without repeating characters", "Longest Substring without repeating characters\Longest Substring without repeating characters.vcxproj", "{A623F852-EC02-4382-A6D6-5ACEB1FEA1A7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Median of two sorted arrays", "Median of two sorted arrays\Median of two sorted arrays.vcxproj", "{DAC9A45C-21BE-489C-BC56-B5F05F15F56F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -441,6 +443,14 @@ Global
 		{A623F852-EC02-4382-A6D6-5ACEB1FEA1A7}.Release|x64.Build.0 = Release|x64
 		{A623F852-EC02-4382-A6D6-5ACEB1FEA1A7}.Release|x86.ActiveCfg = Release|Win32
 		{A623F852-EC02-4382-A6D6-5ACEB1FEA1A7}.Release|x86.Build.0 = Release|Win32
+		{DAC9A45C-21BE-489C-BC56-B5F05F15F56F}.Debug|x64.ActiveCfg = Debug|x64
+		{DAC9A45C-21BE-489C-BC56-B5F05F15F56F}.Debug|x64.Build.0 = Debug|x64
+		{DAC9A45C-21BE-489C-BC56-B5F05F15F56F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAC9A45C-21BE-489C-BC56-B5F05F15F56F}.Debug|x86.Build.0 = Debug|Win32
+		{DAC9A45C-21BE-489C-BC56-B5F05F15F56F}.Release|x64.ActiveCfg = Release|x64
+		{DAC9A45C-21BE-489C-BC56-B5F05F15F56F}.Release|x64.Build.0 = Release|x64
+		{DAC9A45C-21BE-489C-BC56-B5F05F15F56F}.Release|x86.ActiveCfg = Release|Win32
+		{DAC9A45C-21BE-489C-BC56-B5F05F15F56F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
