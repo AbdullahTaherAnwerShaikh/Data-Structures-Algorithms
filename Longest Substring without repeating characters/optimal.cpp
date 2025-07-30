@@ -1,15 +1,14 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_map<char, int> map;
-        int start = 0;
         int maxReach = 0;
+        int start = 0;
+        unordered_map<char, int> tracker;
         for (int i = 0;i < s.length();i++) {
-
-            if (map.find(s[i]) != map.end() && map[s[i]] >= start) {
-                start = map[s[i]] + 1;
+            if (tracker.find(s[i]) != tracker.end() && tracker[s[i]] >= start) {
+                start = tracker[s[i]] + 1;
             }
-            map[s[i]] = i;
+            tracker[s[i]] = i;
             maxReach = max(maxReach, i - start + 1);
         }
         return maxReach;
