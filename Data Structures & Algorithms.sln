@@ -93,6 +93,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Median of two sorted arrays
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Longest Palindromic Substring", "Longest Palindromic Substring\Longest Palindromic Substring.vcxproj", "{C8151B44-10FA-4985-9A7B-6417A73F7066}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zigzag Conversion", "Zigzag Conversion\Zigzag Conversion.vcxproj", "{53CC5738-096F-4518-9B61-4B5631E27D2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -461,6 +463,14 @@ Global
 		{C8151B44-10FA-4985-9A7B-6417A73F7066}.Release|x64.Build.0 = Release|x64
 		{C8151B44-10FA-4985-9A7B-6417A73F7066}.Release|x86.ActiveCfg = Release|Win32
 		{C8151B44-10FA-4985-9A7B-6417A73F7066}.Release|x86.Build.0 = Release|Win32
+		{53CC5738-096F-4518-9B61-4B5631E27D2F}.Debug|x64.ActiveCfg = Debug|x64
+		{53CC5738-096F-4518-9B61-4B5631E27D2F}.Debug|x64.Build.0 = Debug|x64
+		{53CC5738-096F-4518-9B61-4B5631E27D2F}.Debug|x86.ActiveCfg = Debug|Win32
+		{53CC5738-096F-4518-9B61-4B5631E27D2F}.Debug|x86.Build.0 = Debug|Win32
+		{53CC5738-096F-4518-9B61-4B5631E27D2F}.Release|x64.ActiveCfg = Release|x64
+		{53CC5738-096F-4518-9B61-4B5631E27D2F}.Release|x64.Build.0 = Release|x64
+		{53CC5738-096F-4518-9B61-4B5631E27D2F}.Release|x86.ActiveCfg = Release|Win32
+		{53CC5738-096F-4518-9B61-4B5631E27D2F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
