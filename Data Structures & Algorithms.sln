@@ -105,6 +105,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Happy Number", "Happy Numbe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Count Primes", "Count Primes\Count Primes.vcxproj", "{637E33E1-A770-4501-9EC2-030B4F8CC58C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Isomorphic Strings (BF)", "Isomorphic Strings\Isomorphic Strings.vcxproj", "{DFC7E414-CC6A-4BA5-B8E9-9EB841CF4E8E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Isomorphic Strings (O)", "Isomorphic Strings (O)\Isomorphic Strings (O).vcxproj", "{DB6216E5-700E-4F4D-A8E1-DA08B1BA7A45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -521,6 +525,22 @@ Global
 		{637E33E1-A770-4501-9EC2-030B4F8CC58C}.Release|x64.Build.0 = Release|x64
 		{637E33E1-A770-4501-9EC2-030B4F8CC58C}.Release|x86.ActiveCfg = Release|Win32
 		{637E33E1-A770-4501-9EC2-030B4F8CC58C}.Release|x86.Build.0 = Release|Win32
+		{DFC7E414-CC6A-4BA5-B8E9-9EB841CF4E8E}.Debug|x64.ActiveCfg = Debug|x64
+		{DFC7E414-CC6A-4BA5-B8E9-9EB841CF4E8E}.Debug|x64.Build.0 = Debug|x64
+		{DFC7E414-CC6A-4BA5-B8E9-9EB841CF4E8E}.Debug|x86.ActiveCfg = Debug|Win32
+		{DFC7E414-CC6A-4BA5-B8E9-9EB841CF4E8E}.Debug|x86.Build.0 = Debug|Win32
+		{DFC7E414-CC6A-4BA5-B8E9-9EB841CF4E8E}.Release|x64.ActiveCfg = Release|x64
+		{DFC7E414-CC6A-4BA5-B8E9-9EB841CF4E8E}.Release|x64.Build.0 = Release|x64
+		{DFC7E414-CC6A-4BA5-B8E9-9EB841CF4E8E}.Release|x86.ActiveCfg = Release|Win32
+		{DFC7E414-CC6A-4BA5-B8E9-9EB841CF4E8E}.Release|x86.Build.0 = Release|Win32
+		{DB6216E5-700E-4F4D-A8E1-DA08B1BA7A45}.Debug|x64.ActiveCfg = Debug|x64
+		{DB6216E5-700E-4F4D-A8E1-DA08B1BA7A45}.Debug|x64.Build.0 = Debug|x64
+		{DB6216E5-700E-4F4D-A8E1-DA08B1BA7A45}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB6216E5-700E-4F4D-A8E1-DA08B1BA7A45}.Debug|x86.Build.0 = Debug|Win32
+		{DB6216E5-700E-4F4D-A8E1-DA08B1BA7A45}.Release|x64.ActiveCfg = Release|x64
+		{DB6216E5-700E-4F4D-A8E1-DA08B1BA7A45}.Release|x64.Build.0 = Release|x64
+		{DB6216E5-700E-4F4D-A8E1-DA08B1BA7A45}.Release|x86.ActiveCfg = Release|Win32
+		{DB6216E5-700E-4F4D-A8E1-DA08B1BA7A45}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
