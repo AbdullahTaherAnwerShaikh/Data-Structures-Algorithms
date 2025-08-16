@@ -119,6 +119,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Design Hashset (BF)", "Desi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Design Hashnet (O)", "Design Hashnet\Design Hashnet.vcxproj", "{02C4C089-56E9-48D9-9FAC-F980F68AFC18}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Design Hasmap", "Design Hasmap\Design Hasmap.vcxproj", "{BD64171D-3DF1-41DE-B078-D263FA726898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -591,6 +593,14 @@ Global
 		{02C4C089-56E9-48D9-9FAC-F980F68AFC18}.Release|x64.Build.0 = Release|x64
 		{02C4C089-56E9-48D9-9FAC-F980F68AFC18}.Release|x86.ActiveCfg = Release|Win32
 		{02C4C089-56E9-48D9-9FAC-F980F68AFC18}.Release|x86.Build.0 = Release|Win32
+		{BD64171D-3DF1-41DE-B078-D263FA726898}.Debug|x64.ActiveCfg = Debug|x64
+		{BD64171D-3DF1-41DE-B078-D263FA726898}.Debug|x64.Build.0 = Debug|x64
+		{BD64171D-3DF1-41DE-B078-D263FA726898}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD64171D-3DF1-41DE-B078-D263FA726898}.Debug|x86.Build.0 = Debug|Win32
+		{BD64171D-3DF1-41DE-B078-D263FA726898}.Release|x64.ActiveCfg = Release|x64
+		{BD64171D-3DF1-41DE-B078-D263FA726898}.Release|x64.Build.0 = Release|x64
+		{BD64171D-3DF1-41DE-B078-D263FA726898}.Release|x86.ActiveCfg = Release|Win32
+		{BD64171D-3DF1-41DE-B078-D263FA726898}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
