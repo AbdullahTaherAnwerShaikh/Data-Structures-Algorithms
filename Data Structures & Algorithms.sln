@@ -123,6 +123,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Design Hasmap", "Design Has
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sort an Array", "Sort an Array\Sort an Array.vcxproj", "{F489E913-D892-44C2-BE72-4BE57FE9CBDF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sort Colors", "Sort Colors\Sort Colors.vcxproj", "{47E9E3CE-A6E8-4579-A898-695DDAA165E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -611,6 +613,14 @@ Global
 		{F489E913-D892-44C2-BE72-4BE57FE9CBDF}.Release|x64.Build.0 = Release|x64
 		{F489E913-D892-44C2-BE72-4BE57FE9CBDF}.Release|x86.ActiveCfg = Release|Win32
 		{F489E913-D892-44C2-BE72-4BE57FE9CBDF}.Release|x86.Build.0 = Release|Win32
+		{47E9E3CE-A6E8-4579-A898-695DDAA165E0}.Debug|x64.ActiveCfg = Debug|x64
+		{47E9E3CE-A6E8-4579-A898-695DDAA165E0}.Debug|x64.Build.0 = Debug|x64
+		{47E9E3CE-A6E8-4579-A898-695DDAA165E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{47E9E3CE-A6E8-4579-A898-695DDAA165E0}.Debug|x86.Build.0 = Debug|Win32
+		{47E9E3CE-A6E8-4579-A898-695DDAA165E0}.Release|x64.ActiveCfg = Release|x64
+		{47E9E3CE-A6E8-4579-A898-695DDAA165E0}.Release|x64.Build.0 = Release|x64
+		{47E9E3CE-A6E8-4579-A898-695DDAA165E0}.Release|x86.ActiveCfg = Release|Win32
+		{47E9E3CE-A6E8-4579-A898-695DDAA165E0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
