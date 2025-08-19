@@ -131,6 +131,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Longest Consecutive Sequenc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Best Time to Buy & Sell Stock II", "Best Time to Buy & Sell Stock II\Best Time to Buy & Sell Stock II.vcxproj", "{78A7E909-557F-4E73-950D-0A188EBF8CE2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Majority Element II (BF)", "Majority Element II (BF)\Majority Element II (BF).vcxproj", "{E58C650E-DC71-4F58-8C28-23D330BC78FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -651,6 +653,14 @@ Global
 		{78A7E909-557F-4E73-950D-0A188EBF8CE2}.Release|x64.Build.0 = Release|x64
 		{78A7E909-557F-4E73-950D-0A188EBF8CE2}.Release|x86.ActiveCfg = Release|Win32
 		{78A7E909-557F-4E73-950D-0A188EBF8CE2}.Release|x86.Build.0 = Release|Win32
+		{E58C650E-DC71-4F58-8C28-23D330BC78FE}.Debug|x64.ActiveCfg = Debug|x64
+		{E58C650E-DC71-4F58-8C28-23D330BC78FE}.Debug|x64.Build.0 = Debug|x64
+		{E58C650E-DC71-4F58-8C28-23D330BC78FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{E58C650E-DC71-4F58-8C28-23D330BC78FE}.Debug|x86.Build.0 = Debug|Win32
+		{E58C650E-DC71-4F58-8C28-23D330BC78FE}.Release|x64.ActiveCfg = Release|x64
+		{E58C650E-DC71-4F58-8C28-23D330BC78FE}.Release|x64.Build.0 = Release|x64
+		{E58C650E-DC71-4F58-8C28-23D330BC78FE}.Release|x86.ActiveCfg = Release|Win32
+		{E58C650E-DC71-4F58-8C28-23D330BC78FE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
