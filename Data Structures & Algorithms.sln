@@ -143,6 +143,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "First Missing Positive (BF)
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "First Missing Positive (O)", "First Missing Positive (O)\First Missing Positive (O).vcxproj", "{1AD6F3C1-068A-4D02-AD06-884C92EC2AD9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse String", "Reverse String\Reverse String.vcxproj", "{98428EE4-CA53-4C97-BCE9-51DD870180CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -711,6 +713,14 @@ Global
 		{1AD6F3C1-068A-4D02-AD06-884C92EC2AD9}.Release|x64.Build.0 = Release|x64
 		{1AD6F3C1-068A-4D02-AD06-884C92EC2AD9}.Release|x86.ActiveCfg = Release|Win32
 		{1AD6F3C1-068A-4D02-AD06-884C92EC2AD9}.Release|x86.Build.0 = Release|Win32
+		{98428EE4-CA53-4C97-BCE9-51DD870180CA}.Debug|x64.ActiveCfg = Debug|x64
+		{98428EE4-CA53-4C97-BCE9-51DD870180CA}.Debug|x64.Build.0 = Debug|x64
+		{98428EE4-CA53-4C97-BCE9-51DD870180CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{98428EE4-CA53-4C97-BCE9-51DD870180CA}.Debug|x86.Build.0 = Debug|Win32
+		{98428EE4-CA53-4C97-BCE9-51DD870180CA}.Release|x64.ActiveCfg = Release|x64
+		{98428EE4-CA53-4C97-BCE9-51DD870180CA}.Release|x64.Build.0 = Release|x64
+		{98428EE4-CA53-4C97-BCE9-51DD870180CA}.Release|x86.ActiveCfg = Release|Win32
+		{98428EE4-CA53-4C97-BCE9-51DD870180CA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
