@@ -169,6 +169,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Permutation in String", "Pe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Find k Closest Elements", "Find k Closest Elements\Find k Closest Elements.vcxproj", "{5CA0F2BD-F56D-44E0-9616-A383CFACB074}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FInd k Closest Elements (O)", "FInd k Closest Elements (O)\FInd k Closest Elements (O).vcxproj", "{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -841,6 +843,14 @@ Global
 		{5CA0F2BD-F56D-44E0-9616-A383CFACB074}.Release|x64.Build.0 = Release|x64
 		{5CA0F2BD-F56D-44E0-9616-A383CFACB074}.Release|x86.ActiveCfg = Release|Win32
 		{5CA0F2BD-F56D-44E0-9616-A383CFACB074}.Release|x86.Build.0 = Release|Win32
+		{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}.Debug|x64.ActiveCfg = Debug|x64
+		{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}.Debug|x64.Build.0 = Debug|x64
+		{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}.Debug|x86.ActiveCfg = Debug|Win32
+		{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}.Debug|x86.Build.0 = Debug|Win32
+		{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}.Release|x64.ActiveCfg = Release|x64
+		{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}.Release|x64.Build.0 = Release|x64
+		{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}.Release|x86.ActiveCfg = Release|Win32
+		{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
