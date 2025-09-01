@@ -171,6 +171,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Find k Closest Elements", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FInd k Closest Elements (O)", "FInd k Closest Elements (O)\FInd k Closest Elements (O).vcxproj", "{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minimum Window Substring (BF)", "Minimum Window Substring (BF)\Minimum Window Substring (BF).vcxproj", "{BCE85EB4-A5A6-4B62-9066-CE325C1CDAFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -851,6 +853,14 @@ Global
 		{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}.Release|x64.Build.0 = Release|x64
 		{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}.Release|x86.ActiveCfg = Release|Win32
 		{D3995FA8-90D0-4CE7-88C7-95C6AD802E98}.Release|x86.Build.0 = Release|Win32
+		{BCE85EB4-A5A6-4B62-9066-CE325C1CDAFB}.Debug|x64.ActiveCfg = Debug|x64
+		{BCE85EB4-A5A6-4B62-9066-CE325C1CDAFB}.Debug|x64.Build.0 = Debug|x64
+		{BCE85EB4-A5A6-4B62-9066-CE325C1CDAFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCE85EB4-A5A6-4B62-9066-CE325C1CDAFB}.Debug|x86.Build.0 = Debug|Win32
+		{BCE85EB4-A5A6-4B62-9066-CE325C1CDAFB}.Release|x64.ActiveCfg = Release|x64
+		{BCE85EB4-A5A6-4B62-9066-CE325C1CDAFB}.Release|x64.Build.0 = Release|x64
+		{BCE85EB4-A5A6-4B62-9066-CE325C1CDAFB}.Release|x86.ActiveCfg = Release|Win32
+		{BCE85EB4-A5A6-4B62-9066-CE325C1CDAFB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
