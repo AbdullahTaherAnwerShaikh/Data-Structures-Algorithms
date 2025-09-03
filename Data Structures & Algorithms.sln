@@ -179,6 +179,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sliding Window Maximum (BF)
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sliding Window Maximum (O)", "Sliding Window Maximum (O)\Sliding Window Maximum (O).vcxproj", "{E603FB8C-84F5-4F4B-ADB2-2624D0A2EB11}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Baseball Game", "Baseball Game\Baseball Game.vcxproj", "{9035C5EF-CEB1-4B79-99DE-16B6E1279634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -891,6 +893,14 @@ Global
 		{E603FB8C-84F5-4F4B-ADB2-2624D0A2EB11}.Release|x64.Build.0 = Release|x64
 		{E603FB8C-84F5-4F4B-ADB2-2624D0A2EB11}.Release|x86.ActiveCfg = Release|Win32
 		{E603FB8C-84F5-4F4B-ADB2-2624D0A2EB11}.Release|x86.Build.0 = Release|Win32
+		{9035C5EF-CEB1-4B79-99DE-16B6E1279634}.Debug|x64.ActiveCfg = Debug|x64
+		{9035C5EF-CEB1-4B79-99DE-16B6E1279634}.Debug|x64.Build.0 = Debug|x64
+		{9035C5EF-CEB1-4B79-99DE-16B6E1279634}.Debug|x86.ActiveCfg = Debug|Win32
+		{9035C5EF-CEB1-4B79-99DE-16B6E1279634}.Debug|x86.Build.0 = Debug|Win32
+		{9035C5EF-CEB1-4B79-99DE-16B6E1279634}.Release|x64.ActiveCfg = Release|x64
+		{9035C5EF-CEB1-4B79-99DE-16B6E1279634}.Release|x64.Build.0 = Release|x64
+		{9035C5EF-CEB1-4B79-99DE-16B6E1279634}.Release|x86.ActiveCfg = Release|Win32
+		{9035C5EF-CEB1-4B79-99DE-16B6E1279634}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
