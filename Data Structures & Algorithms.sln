@@ -183,6 +183,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Baseball Game", "Baseball G
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Implement Stack Using Queues", "Implement Stack Using Queues\Implement Stack Using Queues.vcxproj", "{19DFD2FF-A35A-404D-B2AA-70476D0950E8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Implement Queue Using Stacks", "Implement Queue Using Stacks\Implement Queue Using Stacks.vcxproj", "{8A348F8A-B945-42F4-A105-28DB9AA22AD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -911,6 +913,14 @@ Global
 		{19DFD2FF-A35A-404D-B2AA-70476D0950E8}.Release|x64.Build.0 = Release|x64
 		{19DFD2FF-A35A-404D-B2AA-70476D0950E8}.Release|x86.ActiveCfg = Release|Win32
 		{19DFD2FF-A35A-404D-B2AA-70476D0950E8}.Release|x86.Build.0 = Release|Win32
+		{8A348F8A-B945-42F4-A105-28DB9AA22AD4}.Debug|x64.ActiveCfg = Debug|x64
+		{8A348F8A-B945-42F4-A105-28DB9AA22AD4}.Debug|x64.Build.0 = Debug|x64
+		{8A348F8A-B945-42F4-A105-28DB9AA22AD4}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A348F8A-B945-42F4-A105-28DB9AA22AD4}.Debug|x86.Build.0 = Debug|Win32
+		{8A348F8A-B945-42F4-A105-28DB9AA22AD4}.Release|x64.ActiveCfg = Release|x64
+		{8A348F8A-B945-42F4-A105-28DB9AA22AD4}.Release|x64.Build.0 = Release|x64
+		{8A348F8A-B945-42F4-A105-28DB9AA22AD4}.Release|x86.ActiveCfg = Release|Win32
+		{8A348F8A-B945-42F4-A105-28DB9AA22AD4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
