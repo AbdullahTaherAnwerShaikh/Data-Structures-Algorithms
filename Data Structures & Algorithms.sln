@@ -207,6 +207,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Path Simplify", "Path Simpl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Decode String", "Decode String\Decode String.vcxproj", "{507E51CB-8423-4BEA-9BE4-6C8ABF5637D5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Next Greater Element", "Next Greater Element\Next Greater Element.vcxproj", "{984F284D-9A67-4154-83BB-79DF4A0BC47C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1031,6 +1033,14 @@ Global
 		{507E51CB-8423-4BEA-9BE4-6C8ABF5637D5}.Release|x64.Build.0 = Release|x64
 		{507E51CB-8423-4BEA-9BE4-6C8ABF5637D5}.Release|x86.ActiveCfg = Release|Win32
 		{507E51CB-8423-4BEA-9BE4-6C8ABF5637D5}.Release|x86.Build.0 = Release|Win32
+		{984F284D-9A67-4154-83BB-79DF4A0BC47C}.Debug|x64.ActiveCfg = Debug|x64
+		{984F284D-9A67-4154-83BB-79DF4A0BC47C}.Debug|x64.Build.0 = Debug|x64
+		{984F284D-9A67-4154-83BB-79DF4A0BC47C}.Debug|x86.ActiveCfg = Debug|Win32
+		{984F284D-9A67-4154-83BB-79DF4A0BC47C}.Debug|x86.Build.0 = Debug|Win32
+		{984F284D-9A67-4154-83BB-79DF4A0BC47C}.Release|x64.ActiveCfg = Release|x64
+		{984F284D-9A67-4154-83BB-79DF4A0BC47C}.Release|x64.Build.0 = Release|x64
+		{984F284D-9A67-4154-83BB-79DF4A0BC47C}.Release|x86.ActiveCfg = Release|Win32
+		{984F284D-9A67-4154-83BB-79DF4A0BC47C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
