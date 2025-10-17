@@ -215,6 +215,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Merge Two Sorted Lists", "M
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse Linked List", "Reverse Linked List\Reverse Linked List.vcxproj", "{3484A704-B4EF-4AE1-8EDC-E8988639E01F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedList Cycle", "LinkedList Cycle\LinkedList Cycle.vcxproj", "{AF8EDAED-5C60-4BA0-B7DD-C9A102C47D32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1071,6 +1073,14 @@ Global
 		{3484A704-B4EF-4AE1-8EDC-E8988639E01F}.Release|x64.Build.0 = Release|x64
 		{3484A704-B4EF-4AE1-8EDC-E8988639E01F}.Release|x86.ActiveCfg = Release|Win32
 		{3484A704-B4EF-4AE1-8EDC-E8988639E01F}.Release|x86.Build.0 = Release|Win32
+		{AF8EDAED-5C60-4BA0-B7DD-C9A102C47D32}.Debug|x64.ActiveCfg = Debug|x64
+		{AF8EDAED-5C60-4BA0-B7DD-C9A102C47D32}.Debug|x64.Build.0 = Debug|x64
+		{AF8EDAED-5C60-4BA0-B7DD-C9A102C47D32}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF8EDAED-5C60-4BA0-B7DD-C9A102C47D32}.Debug|x86.Build.0 = Debug|Win32
+		{AF8EDAED-5C60-4BA0-B7DD-C9A102C47D32}.Release|x64.ActiveCfg = Release|x64
+		{AF8EDAED-5C60-4BA0-B7DD-C9A102C47D32}.Release|x64.Build.0 = Release|x64
+		{AF8EDAED-5C60-4BA0-B7DD-C9A102C47D32}.Release|x86.ActiveCfg = Release|Win32
+		{AF8EDAED-5C60-4BA0-B7DD-C9A102C47D32}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
